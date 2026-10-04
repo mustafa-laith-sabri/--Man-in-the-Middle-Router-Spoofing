@@ -15,9 +15,9 @@ The simulation is executed through the following structured phases:
         Utilizing ARP requests to identify the default router's IP and actual MAC address.
 
     Phase 2: Interface Configuration (ifconfig)
-![Interface Configuration](images/ifconfig%202.png)
     
         Preparing and verifying the network interface on the attacker machine (Kali Linux) to be used for the operation.
+![Interface Configuration](ifconfig%202.png)
 
     Phase 3: Network Discovery (netdiscover)
 
